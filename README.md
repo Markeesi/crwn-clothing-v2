@@ -1,3 +1,8 @@
+# Learning objective from the course 
+My code along version of the Udemy Course: Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL) - My main objective from this course is to get a refresher in React and also to learn Stripe integration. The rest of what learning comes from this I take as a bonus.
+
+
+
 # How to fork and clone
 One quick note about cloning this project. If you wish to make commits and push your own code, you'll need to fork the project first. Forking allows you to have your own copy of this repository by adding a duplicate version in your own profile!
 
